@@ -1,11 +1,11 @@
 
-<h1 align="center"> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1 align="center"> Hello < World >! My name is Bharat Kasera <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 
 <img align="center"  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
 
 
-<h3 align="center"> Front-End Engineer / Creative Developer / Game Developer </h3>
+<h3 align="center"> Web Developer/ App Developer / UI/UX Designer / Coder 💻 & Learner 👨‍💻 from India 🇮🇳 </h3>
 
 </br>
 
@@ -24,8 +24,6 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Bharat Kasera, Web Developer/ App Developer / UI/UX Designer / Coder 💻 & Learner 👨‍💻 from India 🇮🇳.
-  <br />
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
