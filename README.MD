@@ -2,7 +2,7 @@
 <h1 align="center"> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 
-< img align="center" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
+<img align="center"  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
 
 
 <h3 align="center"> Front-End Engineer / Creative Developer / Game Developer </h3>
@@ -14,8 +14,6 @@
 </br>
 
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
-
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
