@@ -1,3 +1,26 @@
+<p align='left'>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
+    <a href="https://www.youtube.com/channel/UCMhhk4PwFN5brZJks8Nr4aQ?sub_confirmation=1">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCMhhk4PwFN5brZJks8Nr4aQ?style=social">
+    </a>
+</p>
+
+
+
+<h1> Hello < World >! My name is Emilian <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
+
+
+<h3> Front-End Engineer / Creative Developer / Game Developer </h3>
+
+</br>
+
+<img width="800" height="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cover" />
+
+</br>
+
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
 
